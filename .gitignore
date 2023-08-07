@@ -1,0 +1,6 @@
+debug.log
+
+.vscode/
+ArduinoOutput/
+
+wifi.h
